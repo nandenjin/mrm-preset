@@ -1,3 +1,7 @@
+## [0.0.2](https://github.com/nandenjin/mrm-preset/compare/v0.0.1...v0.0.2) (2022-04-03)
+
+
+
 ## [0.0.1](https://github.com/nandenjin/mrm-preset/compare/v0.0.0...v0.0.1) (2022-04-03)
 
 
