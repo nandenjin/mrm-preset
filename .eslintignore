@@ -1,0 +1,10 @@
+.DS_Store
+node_modules/
+Thumbs.db
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+*.log
+package-lock.json
+pnpm-lock.yaml
