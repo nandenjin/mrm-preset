@@ -2,7 +2,15 @@
   "name": "@nandenjin/mrm-preset",
   "version": "0.0.1",
   "description": "Personal preset for repo setup with mrm",
-  "main": "index.js",
+  "main": "config.json",
+  "files": [
+    "config.json",
+    "*/index.js"
+  ],
+  "keywords": [
+    "mrm",
+    "mrm-tasks"
+  ],
   "repository": "git@github.com:nandenjin/mrm-preset.git",
   "author": "Kazumi Inada <hello@nandenjin.com>",
   "license": "MIT",
