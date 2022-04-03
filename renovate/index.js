@@ -1,7 +1,7 @@
 const { json } = require('mrm-core')
 
 module.exports = () => {
-  json('renovate.json')
+  json('.github/renovate.json')
     .merge({
       extends: ['config:base'],
       labels: ['dependencies'],
