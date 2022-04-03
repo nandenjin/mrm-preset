@@ -17,7 +17,8 @@
     "lint": "eslint .",
     "lintfix": "eslint . --fix",
     "format": "prettier --write '**/*.{js,md,yml,json}'",
-    "release": "shipjs prepare"
+    "release": "shipjs prepare",
+    "prepare": "husky install"
   },
   "dependencies": {
     "consola": "^2.15.3",
@@ -29,7 +30,13 @@
   "devDependencies": {
     "eslint": "8.12.0",
     "eslint-config-prettier": "8.5.0",
+    "husky": ">=7",
+    "lint-staged": ">=10",
     "prettier": "2.6.2",
     "shipjs": "0.24.3"
+  },
+  "lint-staged": {
+    "*.js": "eslint --cache --fix",
+    "*.{js,md,yml,json}": "prettier --write"
   }
 }
