@@ -1,5 +1,5 @@
 const { existsSync } = require('fs')
-const { json, copyFiles, packageJson } = require('mrm-core')
+const { json, copyFiles, packageJson, install } = require('mrm-core')
 const consola = require('consola')
 
 module.exports = () => {
