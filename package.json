@@ -4,8 +4,7 @@
   "description": "Personal preset for repo setup with mrm",
   "main": "config.json",
   "files": [
-    "config.json",
-    "*/index.js"
+    "*"
   ],
   "keywords": [
     "mrm",
