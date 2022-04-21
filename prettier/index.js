@@ -1,5 +1,5 @@
-const { existsSync } = require('fs')
-const { json, copyFiles, packageJson, install } = require('mrm-core')
+const { existsSync, copyFileSync } = require('fs')
+const { json, packageJson, install } = require('mrm-core')
 const consola = require('consola')
 
 module.exports = () => {
@@ -25,7 +25,7 @@ module.exports = () => {
   }
 
   // Ignore file
-  copyFiles('.gitignore', '.prettierignore')
+  copyFileSync('.gitignore', '.prettierignore')
 
   // Add package script
   const pkg = packageJson()
