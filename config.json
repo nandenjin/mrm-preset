@@ -1,1 +1,12 @@
-{}
+{
+  "aliases": {
+    "all": [
+      "gitignore",
+      "eslint-ts",
+      "prettier",
+      "lint-staged",
+      "renovate",
+      "actions"
+    ]
+  }
+}
