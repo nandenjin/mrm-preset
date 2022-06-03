@@ -1,3 +1,14 @@
+# [0.2.0](https://github.com/nandenjin/mrm-preset/compare/v0.1.0...v0.2.0) (2022-06-03)
+
+### Bug Fixes
+
+- **deps:** update dependency sync-fetch to ^0.4.0 ([ccd5bf8](https://github.com/nandenjin/mrm-preset/commit/ccd5bf8d1a26e05fc0e2e918e451423e947fd961))
+- Extract gitignore response as plain text ([#16](https://github.com/nandenjin/mrm-preset/issues/16)) ([8ceeec9](https://github.com/nandenjin/mrm-preset/commit/8ceeec9eccf2b2d5f3b9588c3eb1c46455ba3a68))
+
+### Features
+
+- Provide `all` alias ([#15](https://github.com/nandenjin/mrm-preset/issues/15)) ([73b2ea5](https://github.com/nandenjin/mrm-preset/commit/73b2ea5ef049d8160d6f26cc3399d4d43b273025))
+
 # [0.1.0](https://github.com/nandenjin/mrm-preset/compare/v0.0.2...v0.1.0) (2022-05-03)
 
 ### Bug Fixes
