@@ -1,6 +1,6 @@
 {
   "name": "@nandenjin/mrm-preset",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Personal preset for repo setup with mrm",
   "main": "config.json",
   "files": [
