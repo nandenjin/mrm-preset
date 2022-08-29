@@ -232,9 +232,9 @@
     "@types/node" "*"
 
 "@types/minimatch@*":
-  version "3.0.5"
-  resolved "https://registry.yarnpkg.com/@types/minimatch/-/minimatch-3.0.5.tgz#1001cc5e6a3704b83c236027e77f2f58ea010f40"
-  integrity sha512-Klz949h02Gz2uZCMGwDUSDS1YBlTdDDgbWHi+81l29tQALUtvz4rAYi5uoVhE5Lagoq6DeqAUlbrHvW/mXDgdQ==
+  version "5.1.0"
+  resolved "https://registry.yarnpkg.com/@types/minimatch/-/minimatch-5.1.0.tgz#c3018161691376002f8a22ebb87f341e0dba3219"
+  integrity sha512-0RJHq5FqDWo17kdHe+SMDJLfxmLaqHbWnqZ6gNKzDvStUlrmx/eKIY17+ifLS1yybo7X86aUshQMlittDOVNnw==
 
 "@types/minimist@^1.2.0":
   version "1.2.2"
@@ -242,9 +242,9 @@
   integrity sha512-jhuKLIRrhvCPLqwPcx6INqmKeiA5EWrsCOPhrlFSrbrmU4ZMPjj5Ul/oLCMDO98XRUIwVm78xICz4EPCektzeQ==
 
 "@types/node@*", "@types/node@>= 8", "@types/node@>=8.9.0":
-  version "18.7.9"
-  resolved "https://registry.yarnpkg.com/@types/node/-/node-18.7.9.tgz#180bfc495c91dc62573967edf047e15dbdce1491"
-  integrity sha512-0N5Y1XAdcl865nDdjbO0m3T6FdmQ4ijE89/urOHLREyTXbpMWbSafx9y7XIsgWGtwUP2iYTinLyyW3FatAxBLQ==
+  version "18.7.13"
+  resolved "https://registry.yarnpkg.com/@types/node/-/node-18.7.13.tgz#23e6c5168333480d454243378b69e861ab5c011a"
+  integrity sha512-46yIhxSe5xEaJZXWdIBP7GU4HDTG8/eo0qd9atdiL+lFpA03y8KS+lkTN834TWJj5767GbWv4n/P6efyTFt1Dw==
 
 "@types/normalize-package-data@^2.4.0":
   version "2.4.1"
@@ -1906,10 +1906,10 @@ modify-values@^1.0.0:
   resolved "https://registry.yarnpkg.com/modify-values/-/modify-values-1.0.1.tgz#b3939fa605546474e3e3e3c63d64bd43b4ee6022"
   integrity sha512-xV2bxeN6F7oYjZWTe/YPAy6MN2M+sL4u/Rlm2AHCIVGfo2p1yGmBHQ6vHehl4bRTZBdHu3TSkWdYgkwpYzAGSw==
 
-mrm-core@^7.0.0:
-  version "7.0.0"
-  resolved "https://registry.yarnpkg.com/mrm-core/-/mrm-core-7.0.0.tgz#3dda89d9b99d972907e4479bcd3772b3fc6c236a"
-  integrity sha512-NB22azURu3CMDN/VWvC5QO5zAUECe0VIPr+QWft+dxeeSz/mbsNAXt4GxaepA1VUGrddPMUmQuWikFPoaPKMbw==
+mrm-core@^7.0.0, mrm-core@^7.1.0:
+  version "7.1.0"
+  resolved "https://registry.yarnpkg.com/mrm-core/-/mrm-core-7.1.0.tgz#0d8c6bf6d0771d5e1192b96ad424f0c1e64f8e12"
+  integrity sha512-vVzPDkPI0WLYxXsJwvT+8XsV+q0Bv+ursVLWzEGet6Ve3l2VPcxHWIXnQyIu5PI3ZwQLwxcD0AwaiegzLhdR3g==
   dependencies:
     babel-code-frame "^6.26.0"
     comment-json "^2.2.0"
@@ -1933,13 +1933,13 @@ mrm-core@^7.0.0:
     yaml "^2.0.0-1"
 
 mrm-task-lint-staged@^7.0.0:
-  version "7.0.0"
-  resolved "https://registry.yarnpkg.com/mrm-task-lint-staged/-/mrm-task-lint-staged-7.0.0.tgz#b480d48afc641bcb44e35819f476ab81a5806e39"
-  integrity sha512-dbrFfPva0xgEGKK4eGEox0Fxqzw6w7gCxoojZYxEkQn3lfg2bLsro7OS+0p48IefXRNN9d8EQrwEMO9NjTp+rw==
+  version "7.1.0"
+  resolved "https://registry.yarnpkg.com/mrm-task-lint-staged/-/mrm-task-lint-staged-7.1.0.tgz#22da3591ba507654bd0148de313d9f542f7c28af"
+  integrity sha512-o4Khr2k7fTGfy8srQm21s8dpkW6LFo/7kZc5X0UuGpcaIHpU8AYNgHqSL+wGsf57PyioIu9uzbLIuvQcgt4Ssg==
   dependencies:
     husky "^7.0.4"
     lodash "^4.17.15"
-    mrm-core "^7.0.0"
+    mrm-core "^7.1.0"
 
 ms@2.1.2:
   version "2.1.2"
@@ -2712,9 +2712,9 @@ spdx-expression-parse@^3.0.0:
     spdx-license-ids "^3.0.0"
 
 spdx-license-ids@^3.0.0:
-  version "3.0.11"
-  resolved "https://registry.yarnpkg.com/spdx-license-ids/-/spdx-license-ids-3.0.11.tgz#50c0d8c40a14ec1bf449bae69a0ea4685a9d9f95"
-  integrity sha512-Ctl2BrFiM0X3MANYgj3CkygxhRmr9mi6xhejbdO960nF6EDJApTYpn0BQnDKlnNBULKiCN1n3w9EBkHK8ZWg+g==
+  version "3.0.12"
+  resolved "https://registry.yarnpkg.com/spdx-license-ids/-/spdx-license-ids-3.0.12.tgz#69077835abe2710b65f03969898b6637b505a779"
+  integrity sha512-rr+VVSXtRhO4OHbXUiAF7xW3Bo9DuuF6C5jH+q/x15j2jniycgKbxU09Hr0WqlSLUs4i4ltHGXqTe7VHclYWyA==
 
 split-lines@^2.0.0:
   version "2.1.0"
