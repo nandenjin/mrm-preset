@@ -5,6 +5,7 @@ module.exports = () => {
     .merge({
       extends: ['config:base'],
       labels: ['dependencies'],
+      schedule: [`* ${Math.floor(Math.random() * 24)} ${Math.floor(Math.random() * 28)} * *`],
       lockFileMaintenance: { enabled: true },
       packageRules: [
         {
