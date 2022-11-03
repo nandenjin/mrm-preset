@@ -1,3 +1,10 @@
+# [0.3.0](https://github.com/nandenjin/mrm-preset/compare/v0.2.4...v0.3.0) (2022-11-03)
+
+### Features
+
+- Add schedule field to renovate task ([15684b6](https://github.com/nandenjin/mrm-preset/commit/15684b6eaaf48fa80bb4871d050951e93624cc3f))
+- Add schema to renovate.json ([ce12fa3](https://github.com/nandenjin/mrm-preset/commit/ce12fa32c53dd988d432bef8a711aef4d3191594))
+
 ## [0.2.4](https://github.com/nandenjin/mrm-preset/compare/v0.2.3...v0.2.4) (2022-10-03)
 
 ## [0.2.3](https://github.com/nandenjin/mrm-preset/compare/v0.2.2...v0.2.3) (2022-09-03)
