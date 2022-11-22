@@ -33,7 +33,7 @@
     "husky": "8.0.2",
     "lint-staged": "13.0.3",
     "prettier": "2.7.1",
-    "shipjs": "0.24.4"
+    "shipjs": "0.25.0"
   },
   "lint-staged": {
     "*.js": "eslint --cache --fix",
