@@ -1,6 +1,6 @@
 const { existsSync, copyFileSync } = require('fs')
 const { json, packageJson, install } = require('mrm-core')
-const consola = require('consola')
+const { consola } = require('consola')
 
 module.exports = () => {
   const deps = ['prettier']
