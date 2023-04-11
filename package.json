@@ -21,7 +21,7 @@
     "prepare": "husky install"
   },
   "dependencies": {
-    "consola": "^2.15.3",
+    "consola": "^3.0.0",
     "mrm-core": "^7.0.0",
     "mrm-task-lint-staged": "^7.0.0",
     "sync-fetch": "^0.4.0",
