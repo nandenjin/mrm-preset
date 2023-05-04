@@ -1,3 +1,14 @@
+## [0.3.6](https://github.com/nandenjin/mrm-preset/compare/v0.3.5...v0.3.6) (2023-05-03)
+
+### Bug Fixes
+
+- **deps:** update dependency consola to v3 ([#32](https://github.com/nandenjin/mrm-preset/issues/32)) ([e8af548](https://github.com/nandenjin/mrm-preset/commit/e8af548ac3e9847dd56f59e8117ddeca72f67ff3))
+- **deps:** update dependency consola to v3.0.1 ([7ec76fe](https://github.com/nandenjin/mrm-preset/commit/7ec76fedc7460262529864aea8d0be5a221b4967))
+- **deps:** update dependency consola to v3.0.2 ([c6d3307](https://github.com/nandenjin/mrm-preset/commit/c6d3307a159c8185e6a7a00e4ffa600a1dd49fe2))
+- **deps:** update dependency consola to v3.1.0 ([cfc7238](https://github.com/nandenjin/mrm-preset/commit/cfc72388cb33031d2bb83c370ecd46b00fc132c6))
+- **deps:** update dependency yaml to v2.2.2 ([46d39a6](https://github.com/nandenjin/mrm-preset/commit/46d39a632f6e7e0c4ceac3da296836c7f5aa6e91))
+- Switched consola to named import ([e1a1845](https://github.com/nandenjin/mrm-preset/commit/e1a18456117382e8ace20b7952c418ff5a1d161e))
+
 ## [0.3.5](https://github.com/nandenjin/mrm-preset/compare/v0.3.4...v0.3.5) (2023-04-03)
 
 ### Bug Fixes
