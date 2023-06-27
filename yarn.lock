@@ -651,9 +651,9 @@ concat-map@0.0.1:
   integrity sha512-/Srv4dswyQNBfohGpz9o6Yb3Gz3SrUDqBH5rTuhGR7ahtlbYKnVxw2bCFMRljaA7EXHaXZ8wsHdodFvbkhKmqg==
 
 consola@^3.0.0:
-  version "3.1.0"
-  resolved "https://registry.yarnpkg.com/consola/-/consola-3.1.0.tgz#dfdfa62ceb68bc1f06e4a76ad688566bd8813baf"
-  integrity sha512-rrrJE6rP0qzl/Srg+C9x/AE5Kxfux7reVm1Wh0wCjuXvih6DqZgqDZe8auTD28fzJ9TF0mHlSDrPpWlujQRo1Q==
+  version "3.2.0"
+  resolved "https://registry.yarnpkg.com/consola/-/consola-3.2.0.tgz#347ad19c297a7dbd3ae97c648abefc107a08098f"
+  integrity sha512-NLgzNbAYHKIeCi+wrymxkwZX42jAMBDB/8gtR+JCgHzegj92hXNoLmYrfA78mfmvopmg/z0PNgYyFAwY5emnZg==
 
 constant-case@^3.0.3:
   version "3.0.4"
