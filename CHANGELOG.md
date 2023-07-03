@@ -1,3 +1,12 @@
+## [0.3.8](https://github.com/nandenjin/mrm-preset/compare/v0.3.7...v0.3.8) (2023-07-03)
+
+### Bug Fixes
+
+- **deps:** update dependency consola to v3.2.0 ([f11603f](https://github.com/nandenjin/mrm-preset/commit/f11603f2efe9fbbd47155b52244effb4094e7b24))
+- **deps:** update dependency consola to v3.2.1 ([9bba370](https://github.com/nandenjin/mrm-preset/commit/9bba37036ba3293735da52b83c30b21534725cb0))
+- **deps:** update dependency consola to v3.2.2 ([d1bc421](https://github.com/nandenjin/mrm-preset/commit/d1bc4214506931783bf20ca055adb5189a33143c))
+- **deps:** update dependency sync-fetch to ^0.5.0 ([ead2314](https://github.com/nandenjin/mrm-preset/commit/ead2314d1f21001812e13fe87832837da38346ca))
+
 ## [0.3.7](https://github.com/nandenjin/mrm-preset/compare/v0.3.6...v0.3.7) (2023-06-03)
 
 ### Bug Fixes
