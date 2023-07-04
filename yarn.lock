@@ -1875,9 +1875,9 @@ modify-values@^1.0.0:
   integrity sha512-xV2bxeN6F7oYjZWTe/YPAy6MN2M+sL4u/Rlm2AHCIVGfo2p1yGmBHQ6vHehl4bRTZBdHu3TSkWdYgkwpYzAGSw==
 
 mrm-core@^7.0.0, mrm-core@^7.1.14:
-  version "7.1.14"
-  resolved "https://registry.yarnpkg.com/mrm-core/-/mrm-core-7.1.14.tgz#3f8a64f00ca1f131c12bee7f07a8bfdfac01bf07"
-  integrity sha512-bm8ssAwBYusx0TJ9vDYaExx0fPPLISETvRpZGIa0kjq9V3ZpTBgyyjFtNpqsgUlvzoQAVrMi87OeRBnm5z5qng==
+  version "7.1.17"
+  resolved "https://registry.yarnpkg.com/mrm-core/-/mrm-core-7.1.17.tgz#74fb31b4fffd5c6db5f2100ca0df507e48bc96ba"
+  integrity sha512-6gsWXIWrGRdaJwtM7B0V/RyifiQlIK4XaE1Q/KLx5e0mAtRyNLD1l4A/2zG15HWJ93kwAIQtl0DBaHemE9vkIQ==
   dependencies:
     babel-code-frame "^6.26.0"
     comment-json "^2.2.0"
