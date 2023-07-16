@@ -20,7 +20,8 @@ module.exports = () => {
       'prettier: .eslintrc.json detected. Adding eslint-prettier-config'
     )
     const eslintrc = json('.eslintrc.json')
-    eslintrc.set('extends', [...eslintrc.get('extends'), 'prettier']).save()
+    const prevExtends = eslintrc.get('extends')
+    eslintrc.set('extends', [...(Array.isArray(prevExtends) ? prevExtends : [prevExtends]), 'prettier']).save()
     deps.push('eslint-config-prettier')
   }
 
