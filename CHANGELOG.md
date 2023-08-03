@@ -1,3 +1,12 @@
+## [0.3.9](https://github.com/nandenjin/mrm-preset/compare/v0.3.8...v0.3.9) (2023-08-03)
+
+### Bug Fixes
+
+- Consider the case of eslintrc.extends is type of string ([#38](https://github.com/nandenjin/mrm-preset/issues/38)) ([500a48b](https://github.com/nandenjin/mrm-preset/commit/500a48b70972ea73360727efe56d4c025a3b6da4))
+- **deps:** update dependency consola to v3.2.3 ([d2eda6a](https://github.com/nandenjin/mrm-preset/commit/d2eda6a264c23dcd4d1a1a08dae8c4b0e9c72995))
+- **deps:** update dependency mrm-core to v7.1.17 ([285a173](https://github.com/nandenjin/mrm-preset/commit/285a1735d447ee4ce2f810957a24a2463db2570f))
+- **deps:** update dependency mrm-task-lint-staged to v7.1.17 ([d4c8f5d](https://github.com/nandenjin/mrm-preset/commit/d4c8f5d5d4640a6c18ebc33bb580e751c85e6455))
+
 ## [0.3.8](https://github.com/nandenjin/mrm-preset/compare/v0.3.7...v0.3.8) (2023-07-03)
 
 ### Bug Fixes
