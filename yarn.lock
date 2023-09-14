@@ -1875,7 +1875,7 @@ modify-values@^1.0.0:
   resolved "https://registry.yarnpkg.com/modify-values/-/modify-values-1.0.1.tgz#b3939fa605546474e3e3e3c63d64bd43b4ee6022"
   integrity sha512-xV2bxeN6F7oYjZWTe/YPAy6MN2M+sL4u/Rlm2AHCIVGfo2p1yGmBHQ6vHehl4bRTZBdHu3TSkWdYgkwpYzAGSw==
 
-mrm-core@^7.0.0, mrm-core@^7.1.21:
+mrm-core@^7.0.0, mrm-core@^7.1.22:
   version "7.1.22"
   resolved "https://registry.yarnpkg.com/mrm-core/-/mrm-core-7.1.22.tgz#09a42f35f28d0562eb47e277bc89b7dedb3342bc"
   integrity sha512-ZuJBEatzjyvA6+5Ogl02QbV70UNbe2jaxa29NzcL3g5VT7rHAMtE0v+vGOZkcmdl3ZtUDEq0BMj4qXgw8uSCXg==
@@ -1902,13 +1902,13 @@ mrm-core@^7.0.0, mrm-core@^7.1.21:
     yaml "^2.0.0-1"
 
 mrm-task-lint-staged@^7.0.0:
-  version "7.1.21"
-  resolved "https://registry.yarnpkg.com/mrm-task-lint-staged/-/mrm-task-lint-staged-7.1.21.tgz#2b463b75b4bc72b89fe6b4773b7b21da4d7dc17d"
-  integrity sha512-800POB/Xpb+oy5zp1pcGOT077MZaFufImPAF5ocmZw5IWHQluxLLw+L7UiViyVXSubvfLncqynUk5NIgmlx57g==
+  version "7.1.22"
+  resolved "https://registry.yarnpkg.com/mrm-task-lint-staged/-/mrm-task-lint-staged-7.1.22.tgz#0619776505cf3a98312c8b113fcf8dfdbd887490"
+  integrity sha512-F1hQAYf1ukLYOoifZ2nRYloQGyg0cmaZPJk+15jj4K1vxaXutjf401ze+3X4VC80NNR528BnmOf9LSGnQQd/Jw==
   dependencies:
     husky "^7.0.4"
     lodash "^4.17.15"
-    mrm-core "^7.1.21"
+    mrm-core "^7.1.22"
 
 ms@2.1.2:
   version "2.1.2"
