@@ -1,3 +1,12 @@
+## [0.3.11](https://github.com/nandenjin/mrm-preset/compare/v0.3.10...v0.3.11) (2023-10-03)
+
+### Bug Fixes
+
+- **deps:** update dependency mrm-core to v7.1.21 ([1c6750b](https://github.com/nandenjin/mrm-preset/commit/1c6750bc553a7ffedc6c3f07b13b145f262a9d9c))
+- **deps:** update dependency mrm-core to v7.1.22 ([ee5e708](https://github.com/nandenjin/mrm-preset/commit/ee5e708d8171ad13dc123dd9345a939d76e8048c))
+- **deps:** update dependency mrm-task-lint-staged to v7.1.21 ([058b935](https://github.com/nandenjin/mrm-preset/commit/058b935034248f9b0d4cab851e61440720749109))
+- **deps:** update dependency mrm-task-lint-staged to v7.1.22 ([193c9f6](https://github.com/nandenjin/mrm-preset/commit/193c9f6c1557b56b92a0bb88f90cc01767c8f89a))
+
 ## [0.3.10](https://github.com/nandenjin/mrm-preset/compare/v0.3.9...v0.3.10) (2023-09-03)
 
 ### Bug Fixes
