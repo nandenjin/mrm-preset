@@ -17,7 +17,6 @@
     "lint": "eslint .",
     "lintfix": "eslint . --fix",
     "format": "prettier --write '**/*.{js,md,yml,json}'",
-    "release": "shipjs prepare",
     "prepare": "husky install"
   },
   "dependencies": {
