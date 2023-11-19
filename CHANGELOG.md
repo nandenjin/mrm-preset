@@ -1,8 +1,4 @@
-## [0.3.12](https://github.com/nandenjin/mrm-preset/compare/v0.3.11...v0.3.12) (2023-11-03)
-
-### Bug Fixes
-
-- **deps:** update dependency yaml to v2.3.3 ([dbcb8e0](https://github.com/nandenjin/mrm-preset/commit/dbcb8e0a8e13bb0115412c4f0f8fa0b56d990d9b))
+# Changelog
 
 ## [0.3.13](https://github.com/nandenjin/mrm-preset/compare/v0.3.12...v0.3.13) (2023-11-18)
 
@@ -10,6 +6,12 @@
 ### Bug Fixes
 
 * **deps:** update dependency mrm-core to v7.1.22 ([54236a6](https://github.com/nandenjin/mrm-preset/commit/54236a678247836173ecb4070db53cdd90aec2ce))
+
+## [0.3.12](https://github.com/nandenjin/mrm-preset/compare/v0.3.11...v0.3.12) (2023-11-03)
+
+### Bug Fixes
+
+- **deps:** update dependency yaml to v2.3.3 ([dbcb8e0](https://github.com/nandenjin/mrm-preset/commit/dbcb8e0a8e13bb0115412c4f0f8fa0b56d990d9b))
 
 ## [0.3.11](https://github.com/nandenjin/mrm-preset/compare/v0.3.10...v0.3.11) (2023-10-03)
 
