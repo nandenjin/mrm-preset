@@ -33,6 +33,6 @@ jobs:
           node-version: 20
           cache: yarn
       - run: yarn install --frozen-lockfile
-      - run: npm publish --access public --tag ${{ needs.release-please.outputs.tag_name }}
+      - run: npm publish --access public
         env:
           NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}
