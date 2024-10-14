@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.3.21](https://github.com/nandenjin/mrm-preset/compare/v0.3.20...v0.3.21) (2024-10-14)
+
+
+### Bug Fixes
+
+* **deps:** update dependency yaml to v2.6.0 ([af24c50](https://github.com/nandenjin/mrm-preset/commit/af24c50628229fe83662daf3537cc51557cae7e5))
+
 ## [0.3.20](https://github.com/nandenjin/mrm-preset/compare/v0.3.19...v0.3.20) (2024-10-01)
 
 
