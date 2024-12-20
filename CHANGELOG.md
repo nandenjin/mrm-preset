@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.3.23](https://github.com/nandenjin/mrm-preset/compare/v0.3.22...v0.3.23) (2024-12-20)
+
+
+### Bug Fixes
+
+* **deps:** update dependency consola to v3.3.0 ([7c58454](https://github.com/nandenjin/mrm-preset/commit/7c584540487413db71fa9c520ec72c37a9cfc1bc))
+
 ## [0.3.22](https://github.com/nandenjin/mrm-preset/compare/v0.3.21...v0.3.22) (2024-11-26)
 
 
