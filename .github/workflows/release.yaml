@@ -31,6 +31,7 @@ jobs:
         with:
           node-version-file: .nvmrc
           cache: yarn
+          registry-url: https://registry.npmjs.org
       - run: yarn install --frozen-lockfile
       - run: npm publish --access public
         env:
