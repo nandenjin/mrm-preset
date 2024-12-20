@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.3.24](https://github.com/nandenjin/mrm-preset/compare/v0.3.23...v0.3.24) (2024-12-20)
+
+
+### Miscellaneous Chores
+
+* Release 0.3.24 ([982e99b](https://github.com/nandenjin/mrm-preset/commit/982e99b354479147c2e7d96ba7cc98ea8b8e2ebb))
+
 ## [0.3.23](https://github.com/nandenjin/mrm-preset/compare/v0.3.22...v0.3.23) (2024-12-20)
 
 
