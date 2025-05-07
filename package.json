@@ -14,8 +14,8 @@
   "author": "Kazumi Inada <hello@nandenjin.com>",
   "license": "MIT",
   "scripts": {
-    "lint": "eslint **/*.js",
-    "lintfix": "eslint --fix **/*.js",
+    "lint": "eslint .",
+    "lintfix": "eslint --fix .",
     "format": "prettier --write '**/*.{js,md,yml,json}'",
     "prepare": "husky install"
   },
