@@ -231,9 +231,9 @@ cli-cursor@^5.0.0:
     restore-cursor "^5.0.0"
 
 cli-truncate@^5.0.0:
-  version "5.0.0"
-  resolved "https://registry.yarnpkg.com/cli-truncate/-/cli-truncate-5.0.0.tgz#ce06d96ab246c35402ebfd12cf799828b24b53e4"
-  integrity sha512-ds7u02fPOOBpcUl2VSjLF3lfnAik9u7Zt0BTaaAQlT5RtABALl4cvpJHthXx+rM50J4gSfXKPH5Tix/tfdefUQ==
+  version "5.1.0"
+  resolved "https://registry.yarnpkg.com/cli-truncate/-/cli-truncate-5.1.0.tgz#bb12607a62f0e4bb91a54aa4653b23347900bb55"
+  integrity sha512-7JDGG+4Zp0CsknDCedl0DYdaeOhc46QNpXi3NLQblkZpXXgA6LncLDUUyvrjSvZeF3VRQa+KiMGomazQrC1V8g==
   dependencies:
     slice-ansi "^7.1.0"
     string-width "^8.0.0"
