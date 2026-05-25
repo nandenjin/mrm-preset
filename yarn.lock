@@ -1122,9 +1122,9 @@ timeout-signal@^2.0.0:
   integrity sha512-YBGpG4bWsHoPvofT6y/5iqulfXIiIErl5B0LdtHT1mGXDFTAhhRrbUpTvBgYbovr+3cKblya2WAOcpoy90XguA==
 
 tinyexec@^1.0.4:
-  version "1.1.2"
-  resolved "https://registry.yarnpkg.com/tinyexec/-/tinyexec-1.1.2.tgz#11feef204b706d4668ca4013db29f3bd64f5c4dc"
-  integrity sha512-dAqSqE/RabpBKI8+h26GfLq6Vb3JVXs30XYQjdMjaj/c2tS8IYYMbIzP599KtRj7c57/wYApb3QjgRgXmrCukA==
+  version "1.2.2"
+  resolved "https://registry.yarnpkg.com/tinyexec/-/tinyexec-1.2.2.tgz#b66edf362dcad61174bc9ce4f3ee279e2448a721"
+  integrity sha512-M/Q0B2cp4K7kynaT/vnED1j8TlLY+Pp7C6Wl2bl/7u/F0mUVwdyOpwomQb8JpYLitHUssAJRmLZdMCGsrx7i+g==
 
 type-check@^0.4.0, type-check@~0.4.0:
   version "0.4.0"
