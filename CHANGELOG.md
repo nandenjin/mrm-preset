@@ -1,5 +1,13 @@
 # Changelog
 
+## [0.3.28](https://github.com/nandenjin/mrm-preset/compare/v0.3.27...v0.3.28) (2026-08-31)
+
+
+### Bug Fixes
+
+* **deps:** update dependency sync-fetch to ^0.6.0 ([787c1b5](https://github.com/nandenjin/mrm-preset/commit/787c1b5faa8f67de6a90774ef33c61525acbd90f))
+* **deps:** update dependency yaml to v2.8.1 ([11999de](https://github.com/nandenjin/mrm-preset/commit/11999de488eb6986f7e4fe3dd6bba4d1c592be24))
+
 ## [0.3.27](https://github.com/nandenjin/mrm-preset/compare/v0.3.26...v0.3.27) (2025-05-07)
 
 
