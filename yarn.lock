@@ -1107,14 +1107,14 @@ supports-color@^7.1.0:
   dependencies:
     has-flag "^4.0.0"
 
-sync-fetch@^0.6.0:
-  version "0.6.0"
-  resolved "https://registry.yarnpkg.com/sync-fetch/-/sync-fetch-0.6.0.tgz#5759e775f3d5202e1b3d14821bc152fec32aa180"
-  integrity sha512-IELLEvzHuCfc1uTsshPK58ViSdNqXxlml1U+fmwJIKLYKOr/rAtBrorE2RYm5IHaMpDNlmC0fr1LAvdXvyheEQ==
+sync-fetch@^0.7.0:
+  version "0.7.1"
+  resolved "https://registry.yarnpkg.com/sync-fetch/-/sync-fetch-0.7.1.tgz#b318fcff530c4b8eb91e1c290047fe456ff0056f"
+  integrity sha512-tTw2sPVgJb/ZO+Uz5Cs1haWg7aL0cw+DvD8mXos+ws5YaelM3IBZ50M717T1+RD5Qq0TdeZ/EI/wVMnAdJA0Eg==
   dependencies:
     node-fetch "^3.3.2"
     timeout-signal "^2.0.0"
-    whatwg-mimetype "^4.0.0"
+    whatwg-mimetype "^5.0.0"
 
 timeout-signal@^2.0.0:
   version "2.0.0"
@@ -1164,10 +1164,10 @@ webpack-merge@^4.2.2:
   dependencies:
     lodash "^4.17.15"
 
-whatwg-mimetype@^4.0.0:
-  version "4.0.0"
-  resolved "https://registry.yarnpkg.com/whatwg-mimetype/-/whatwg-mimetype-4.0.0.tgz#bc1bf94a985dc50388d54a9258ac405c3ca2fc0a"
-  integrity sha512-QaKxh0eNIi2mE9p2vEdzfagOKHCcj1pJ56EEHGQOVxp8r9/iszLUUV7v89x9O1p/T+NlTM5W7jW6+cz4Fq1YVg==
+whatwg-mimetype@^5.0.0:
+  version "5.0.0"
+  resolved "https://registry.yarnpkg.com/whatwg-mimetype/-/whatwg-mimetype-5.0.0.tgz#d8232895dbd527ceaee74efd4162008fb8a8cf48"
+  integrity sha512-sXcNcHOC51uPGF0P/D4NVtrkjSU2fNsm9iog4ZvZJsL3rjoDAzXZhkm2MWt1y+PUdggKAYVoMAIYcs78wJ51Cw==
 
 which@^2.0.1:
   version "2.0.2"
