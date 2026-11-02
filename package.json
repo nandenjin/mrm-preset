@@ -1,6 +1,6 @@
 {
   "name": "@nandenjin/mrm-preset",
-  "version": "0.3.27",
+  "version": "0.3.28",
   "description": "Personal preset for repo setup with mrm",
   "main": "config.json",
   "files": [
@@ -32,7 +32,7 @@
     "eslint-config-prettier": "10.1.8",
     "globals": "^17.0.0",
     "husky": "9.1.7",
-    "lint-staged": "17.6.0",
+    "lint-staged": "16.4.0",
     "prettier": "3.9.10"
   },
   "lint-staged": {
